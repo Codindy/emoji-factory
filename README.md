@@ -2,7 +2,7 @@
 ## Pojet web & go Epitech 2022
 
 
-Green Sock Animation Platform
+Green Sock Animation Platform.
 Not Responsive
 
 ## Introduction 
