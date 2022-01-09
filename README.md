@@ -3,6 +3,7 @@
 
 
 Green Sock Animation Platform
+Not Responsive
 
 ## Introduction 
 
